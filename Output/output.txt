@@ -1,0 +1,14 @@
+On Trajectory:
+A2 : A3 by R1
+A3 : A2 by R4
+-------------------------------------------------
+Factical crossing:
+A2 : {A7, A5} by R1
+A3 : {A5} by R4
+A5 : {A2, A3} by R6
+A7 : {A2} by R8
+-------------------------------------------------
+Agent-Road crossing:
+A4 : {A9} by R5
+A5 : {A11} by R6
+A8 : {A11, A9} by R9
